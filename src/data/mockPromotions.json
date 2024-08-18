@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "title": "Italian Kitchen",
+    "image": "https://via.placeholder.com/150",
+    "products": [
+      {
+        "id": 1,
+        "name": "Truffle-infused Olive Oil",
+        "image": "https://via.placeholder.com/100"
+      },
+      {
+        "id": 2,
+        "name": "Italian Aged Balsamic Vinegar",
+        "image": "https://via.placeholder.com/100"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Hungary Specials",
+    "image": "https://via.placeholder.com/150",
+    "products": [
+      {
+        "id": 3,
+        "name": "Hungarian Paprika",
+        "image": "https://via.placeholder.com/100"
+      },
+      {
+        "id": 4,
+        "name": "Tokaji Aszú Wine",
+        "image": "https://via.placeholder.com/100"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "French Delicacies",
+    "image": "https://via.placeholder.com/150",
+    "products": [
+      {
+        "id": 5,
+        "name": "French Foie Gras",
+        "image": "https://via.placeholder.com/100"
+      },
+      {
+        "id": 6,
+        "name": "Brie de Meaux Cheese",
+        "image": "https://via.placeholder.com/100"
+      }
+    ]
+  }
+]

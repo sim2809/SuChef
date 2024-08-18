@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Truffle-infused Olive Oil",
+    "description": "Premium extra virgin olive oil infused with the rich flavor of black truffles.",
+    "price": 25.99,
+    "image": "https://via.placeholder.com/150",
+    "rating": 4.8,
+    "inStock": true,
+    "country": "Italy",
+    "measure": "liters",
+    "packing": "bottle"
+  },
+  {
+    "id": 2,
+    "name": "Japanese Wagyu Beef",
+    "description": "A5-grade Wagyu beef from the best farms in Japan.",
+    "price": 129.99,
+    "image": "https://via.placeholder.com/150",
+    "rating": 4.9,
+    "inStock": false,
+    "country": "Japan",
+    "measure": "kg",
+    "packing": "pack"
+  },
+  {
+    "id": 3,
+    "name": "Saffron Threads",
+    "description": "Handpicked saffron threads from the finest crocus flowers.",
+    "price": 19.99,
+    "image": "https://via.placeholder.com/150",
+    "rating": 4.7,
+    "inStock": true,
+    "country": "Iran",
+    "measure": "grams",
+    "packing": "box"
+  },
+  {
+    "id": 4,
+    "name": "French Foie Gras",
+    "description": "Delicate and rich foie gras from the heart of France.",
+    "price": 49.99,
+    "image": "https://via.placeholder.com/150",
+    "rating": 4.5,
+    "inStock": true,
+    "country": "France",
+    "measure": "grams",
+    "packing": "tin"
+  },
+  {
+    "id": 5,
+    "name": "Italian Aged Balsamic Vinegar",
+    "description": "Traditional aged balsamic vinegar from Modena, Italy.",
+    "price": 35.00,
+    "image": "https://via.placeholder.com/150",
+    "rating": 4.6,
+    "inStock": true,
+    "country": "Italy",
+    "measure": "ml",
+    "packing": "bottle"
+  },
+  {
+    "id": 6,
+    "name": "Himalayan Pink Salt",
+    "description": "Pure Himalayan pink salt, hand-mined from ancient sea salt deposits.",
+    "price": 9.99,
+    "image": "https://via.placeholder.com/150",
+    "rating": 4.3,
+    "inStock": true,
+    "country": "Pakistan",
+    "measure": "grams",
+    "packing": "bag"
+  },
+  {
+    "id": 7,
+    "name": "Organic Matcha Powder",
+    "description": "Premium organic matcha powder from Uji, Japan.",
+    "price": 24.50,
+    "image": "https://via.placeholder.com/150",
+    "rating": 4.7,
+    "inStock": true,
+    "country": "Japan",
+    "measure": "grams",
+    "packing": "box"
+  },
+  {
+    "id": 8,
+    "name": "Manuka Honey",
+    "description": "Raw and unpasteurized Manuka honey from New Zealand.",
+    "price": 32.00,
+    "image": "https://via.placeholder.com/150",
+    "rating": 4.8,
+    "inStock": true,
+    "country": "New Zealand",
+    "measure": "grams",
+    "packing": "jar"
+  },
+  {
+    "id": 9,
+    "name": "Artisanal Dark Chocolate",
+    "description": "Handcrafted dark chocolate made from single-origin cacao.",
+    "price": 12.99,
+    "image": "https://via.placeholder.com/150",
+    "rating": 4.9,
+    "inStock": true,
+    "country": "Ecuador",
+    "measure": "grams",
+    "packing": "bar"
+  },
+  {
+    "id": 10,
+    "name": "Spanish Iberico Ham",
+    "description": "Cured Iberico ham from free-range pigs raised on a diet of acorns.",
+    "price": 89.99,
+    "image": "https://via.placeholder.com/150",
+    "rating": 4.8,
+    "inStock": false,
+    "country": "Spain",
+    "measure": "kg",
+    "packing": "pack"
+  }
+]
